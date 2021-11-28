@@ -1,0 +1,17 @@
+{
+  "name": "abc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "list.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "fs": "0.0.1-security",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node list.js"
+  },
+  "author": "bagaus",
+  "license": "MIT"
+}
